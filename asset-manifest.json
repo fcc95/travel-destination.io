@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/travel-destination.io/static/css/main.cfd0cf0c.css",
+    "main.js": "/travel-destination.io/static/js/main.3fbbd728.js",
+    "static/js/787.3004e2e8.chunk.js": "/travel-destination.io/static/js/787.3004e2e8.chunk.js",
+    "index.html": "/travel-destination.io/index.html",
+    "main.cfd0cf0c.css.map": "/travel-destination.io/static/css/main.cfd0cf0c.css.map",
+    "main.3fbbd728.js.map": "/travel-destination.io/static/js/main.3fbbd728.js.map",
+    "787.3004e2e8.chunk.js.map": "/travel-destination.io/static/js/787.3004e2e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfd0cf0c.css",
+    "static/js/main.3fbbd728.js"
+  ]
+}
